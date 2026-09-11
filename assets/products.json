@@ -1,0 +1,16 @@
+[
+  { "id": 1, "name": "Wireless Mouse", "category": "Electronics", "price": 24.99, "inStock": true },
+  { "id": 2, "name": "Mechanical Keyboard", "category": "Electronics", "price": 79.5, "inStock": true },
+  { "id": 3, "name": "USB-C Hub", "category": "Electronics", "price": 34.0, "inStock": false },
+  { "id": 4, "name": "Desk Lamp", "category": "Office", "price": 18.75, "inStock": true },
+  { "id": 5, "name": "Standing Desk Mat", "category": "Office", "price": 45.0, "inStock": true },
+  { "id": 6, "name": "Notebook Set", "category": "Office", "price": 9.99, "inStock": true },
+  { "id": 7, "name": "Ceramic Mug", "category": "Kitchen", "price": 12.5, "inStock": false },
+  { "id": 8, "name": "French Press", "category": "Kitchen", "price": 28.0, "inStock": true },
+  { "id": 9, "name": "Water Bottle", "category": "Kitchen", "price": 15.25, "inStock": true },
+  { "id": 10, "name": "Yoga Mat", "category": "Fitness", "price": 22.0, "inStock": true },
+  { "id": 11, "name": "Resistance Bands", "category": "Fitness", "price": 14.0, "inStock": false },
+  { "id": 12, "name": "Foam Roller", "category": "Fitness", "price": 19.99, "inStock": true },
+  { "id": 13, "name": "Bluetooth Speaker", "category": "Electronics", "price": 39.99, "inStock": false },
+  { "id": 14, "name": "Desk Organizer", "category": "Office", "price": 11.0, "inStock": true }
+]
